@@ -1,6 +1,6 @@
 let userScore = 0;
 let compScore = 0;
-
+//Comment line
 let userName = prompt('Please, Enter your name:').toUpperCase();
 
 let user = document.getElementById("userName");
